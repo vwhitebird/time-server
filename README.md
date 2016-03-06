@@ -1,2 +1,2 @@
 # time-server
-simple client/server that queries time
+Simple client/server that queries time.
